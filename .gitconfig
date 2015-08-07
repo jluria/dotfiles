@@ -1,0 +1,15 @@
+[push]
+	default = simple
+[user]
+	email = josh.luria@gmail.com
+	name = Josh Luria
+[credential]
+	helper = osxkeychain
+[core]
+	editor = vim
+	excludesfile = /Users/shuki/.gitignore
+[alias]
+	st = status
+	cm = commit -m
+	co = checkout
+	b = branch
